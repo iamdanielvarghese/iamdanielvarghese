@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Daniel%20Philip%20Varghese&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Engineer%20%7C%20Thinker%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Daniel%20Philip%20Varghese&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Programmer%20%7C%20Thinker%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn)
 
 </div>
 
