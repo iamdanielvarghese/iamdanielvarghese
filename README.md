@@ -148,19 +148,6 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=iamdanielvarghese&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
-</div>
-
----
-
-## 🎮 Beyond the Code
-
-<div align="center">
-
-| 🏀 Basketball | 🏏 Fast Bowling | 📷 Church Media |
-|:---:|:---:|:---:|
-| Working on that jump shot | Refining pace & swing | Capturing moments for God |
-
-> *"The best code, like the best cricket delivery — deceptively simple, devastatingly effective."*
 
 </div>
 
