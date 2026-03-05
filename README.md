@@ -157,9 +157,32 @@
 
 <div align="center">
 
+```
+╔══════════════════════════════════════════════════════════════╗
+║                     SIGNAL CARD                              ║
+╠══════════════════════════════════════════════════════════════╣
+║  📌  GitHub    →  where the code lives                       ║
+║      github.com/iamdanielvarghese                            ║
+║                                                              ║
+║  💼  LinkedIn  →  where the career grows                     ║
+║      linkedin.com/in/daniel-varghese-6ab441378               ║
+║                                                              ║
+║  🐦  Twitter   →  where the thoughts fly                     ║
+║      twitter.com/johndoe                                     ║
+╠══════════════════════════════════════════════════════════════╣
+║  📬  Open to collabs, projects & opportunities               ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
 [![GitHub](https://img.shields.io/badge/GitHub-iamdanielvarghese-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamdanielvarghese)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-varghese-6ab441378/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johndoe)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Varghese-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-varghese-6ab441378/)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-@johndoe-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johndoe)
+
+</div>
+
+---
 
 </div>
 
