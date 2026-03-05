@@ -8,7 +8,7 @@
 <!-- Animated Typing Intro -->
 <div align="center">
   <a href="https://github.com/iamdanielvarghese">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+%F0%9F%9A%80;Data+Science+%26+AI+Student+%F0%9F%A7%A0;Open-Source+Contributor+%F0%9F%8C%9F;Python+%7C+Java+%7C+Full+Stack+Explorer;Indie+Game+Dev+at+Heart+%F0%9F%8E%AE;Building+solutions+for+real+problems." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Data+Science+%26+AI+Student+%F0%9F%A7%A0;Open-Source+Contributor+%F0%9F%8C%9F;Python+%7C+Java+%7C+Full+Stack+Explorer;Indie+Game+Dev+at+Heart+%F0%9F%8E%AE;Building+solutions+for+real+problems." alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,7 +29,7 @@
   Leveling up: Python wizard → Full Stack architect
 
 > hobbies --list
-  🏀 Basketball  🏏 Fast bowling  📷 Church media team
+  🏀 Basketball  🏏 Cricket  📷 Church media team
 ```
 
 </div>
@@ -171,7 +171,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-iamdanielvarghese-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamdanielvarghese)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johndoe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-varghese-6ab441378)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johndoe)
 
 </div>
