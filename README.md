@@ -173,10 +173,10 @@
         <sub>Where the career grows 💼</sub>
       </a>
     </td>
-    <td align="center" width="220">
-      <a href="https://twitter.com/johndoe">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="170"/><br/><br/>
-        <b>@johndoe</b><br/>
+  <td align="center" width="220">
+      <a href="https://x.com/DanielV45209125">
+        <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" &label=" width="170"/><br/><br/>
+        <b>@DanielV45209125</b><br/>
         <sub>Where the thoughts fly 🐦</sub>
       </a>
     </td>
