@@ -151,15 +151,40 @@
 
 </div>
 
----
+--
 
 ## 🌐 Connect with Me
 
 <div align="center">
 
+```bash
+$ daniel.connect --all
+
+  Initializing connection protocols...
+
+  > daniel.connect("GitHub")    ✓ Linked  →  github.com/iamdanielvarghese
+  > daniel.connect("LinkedIn")  ✓ Linked  →  linkedin.com/in/daniel-varghese-6ab441378
+  > daniel.connect("Twitter")   ✓ Linked  →  twitter.com/johndoe
+
+  All connections established. Let's build something. 🚀
+```
+
+<br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-iamdanielvarghese-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamdanielvarghese)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-varghese-6ab441378/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johndoe)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Varghese-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-varghese-6ab441378/)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-@johndoe-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johndoe)
+
+<br/>
+
+![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-A78BFA?style=for-the-badge)
+![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-7C3AED?style=for-the-badge)
+
+</div>
+
+---
 
 </div>
 
