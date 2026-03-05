@@ -8,7 +8,7 @@
 <!-- Animated Typing Intro -->
 <div align="center">
   <a href="https://github.com/iamdanielvarghese">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Programmer+%F0%9F%9A%80;Data+Science+%26+AI+Student+%F0%9F%A7%A0;Open-Source+Contributor+%F0%9F%8C%9F;Python+%7C+Java+%7C+Full+Stack+Explorer;Indie+Game+Dev+at+Heart+%F0%9F%8E%AE;Building+solutions+for+real+problems." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Programmer+%F0%9F%9A%80;Data+Science+%26+AI+Student+%F0%9F%A7%A0;Open-Source+Contributor+%F0%9F%8C%9F;Python+%7C+Java+%7C+Full+Stack+Explorer;Indie+Game+Dev+at+Heart+%F0%9F%8E%AE;Building+solutions+for+real+life+problems." alt="Typing SVG" />
   </a>
 </div>
 
