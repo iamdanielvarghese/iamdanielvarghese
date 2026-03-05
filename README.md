@@ -157,9 +157,36 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-iamdanielvarghese-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamdanielvarghese)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-varghese-6ab441378/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johndoe)
+<table>
+  <tr>
+    <td align="center" width="220">
+      <a href="https://github.com/iamdanielvarghese">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="170"/><br/><br/>
+        <b>@iamdanielvarghese</b><br/>
+        <sub>Where the code lives 🛠️</sub>
+      </a>
+    </td>
+    <td align="center" width="220">
+      <a href="https://www.linkedin.com/in/daniel-varghese-6ab441378/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="170"/><br/><br/>
+        <b>Daniel Varghese</b><br/>
+        <sub>Where the career grows 💼</sub>
+      </a>
+    </td>
+    <td align="center" width="220">
+      <a href="https://twitter.com/johndoe">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="170"/><br/><br/>
+        <b>@johndoe</b><br/>
+        <sub>Where the thoughts fly 🐦</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-A78BFA?style=for-the-badge)
+![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-7C3AED?style=for-the-badge)
 
 </div>
 
