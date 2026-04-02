@@ -104,18 +104,13 @@
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/johndoe/project-alpha">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamdanielvarghese&repo=project-alpha&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=A78BFA&text_color=CDD5E0&icon_color=A78BFA" alt="Project Alpha"/>
-</a>
-<a href="https://github.com/johndoe/project-beta">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamdanielvarghese&repo=project-beta&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=A78BFA&text_color=CDD5E0&icon_color=A78BFA" alt="Project Beta"/>
-</a>
-
-</div>
+| ⚡ **[Nexora](https://github.com/iamdanielvarghese/Nexora)** | 🗺️ **[Delve](https://github.com/iamdanielvarghese/Delve)** |
+| :--- | :--- |
+| An AI-powered energy advisory web application designed to optimize household efficiency. It uses deterministic estimation models and conversational AI to provide personalized energy audits and appliance upgrade recommendations. | A robust procedural terrain generation engine built from scratch using Perlin Noise. It features infinite terrain generation capabilities, optimized real-time rendering, and database integration for state saving. |
+| **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Vercel AI SDK | **Tech Stack:** Python 3, Pygame, SQLite3 |
+| [Live Demo](https://nexora-mvp.vercel.app/) • [Repository](https://github.com/iamdanielvarghese/Nexora) | [Repository](https://github.com/iamdanielvarghese/Delve) |
 
 ---
 
