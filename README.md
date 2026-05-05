@@ -106,11 +106,11 @@
 
 ### 🚀 Featured Projects
 
-| ⚡ **[Nexora](https://github.com/iamdanielvarghese/Nexora)** | 🗺️ **[Delve](https://github.com/iamdanielvarghese/Delve)** |
+| ⚡ **[Nexora](https://github.com/iamdanielvarghese/Nexora)** | 🛡️ **[CyberTriage](https://github.com/iamdanielvarghese/Cyber-Triage)** |
 | :--- | :--- |
-| An AI-powered energy advisory web application designed to optimize household efficiency. It uses deterministic estimation models and conversational AI to provide personalized energy audits and appliance upgrade recommendations. | A robust procedural terrain generation engine built from scratch using Perlin Noise. It features infinite terrain generation capabilities, optimized real-time rendering, and database integration for state saving. |
-| **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Vercel AI SDK | **Tech Stack:** Python 3, Pygame, SQLite3 |
-| [Live Demo](https://nexora-mvp.vercel.app/) • [Repository](https://github.com/iamdanielvarghese/Nexora) | [Repository](https://github.com/iamdanielvarghese/Delve) |
+| An AI-powered energy advisory web application designed to optimize household efficiency. It uses deterministic estimation models and conversational AI to provide personalized energy audits and appliance upgrade recommendations. | An OpenEnv simulation evaluating Agentic LLMs as automated Level 1 SOC Analysts. Built for the Meta PyTorch Hackathon, it explores how AI agents can triage cybersecurity incidents in real-world-like environments. |
+| **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Vercel AI SDK | **Tech Stack:** Python, PyTorch, LLMs, OpenEnv |
+| [Live Demo](https://nexora-mvp.vercel.app/) • [Repository](https://github.com/iamdanielvarghese/Nexora) | [Repository](https://github.com/iamdanielvarghese/Cyber-Triage) |
 
 ---
 
