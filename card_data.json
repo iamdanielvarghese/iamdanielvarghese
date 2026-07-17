@@ -1,0 +1,62 @@
+{
+  "name": "daniel philip varghese",
+  "prompt": "neofetch --profile",
+  "window_title": "iamdanielvarghese — zsh — 96x68",
+  "sections": [
+    {
+      "type": "fields",
+      "items": [
+        ["Role", "AI/ML Engineering student, building toward SLITE's AI future"],
+        ["Edu", "BCA Hons Data Science & AI, ASB Trivandrum (CUSAT), '29"],
+        ["Focus", "ML/AI Engineering + Quant Finance"]
+      ]
+    },
+    {
+      "type": "section",
+      "title": "~/stack",
+      "items": [
+        ["Lang", "Python, TypeScript, Java"],
+        ["AI/ML", "PyTorch, Gemini API, scikit-learn, RAG"],
+        ["Backend", "FastAPI, Next.js, Supabase, Vercel"],
+        ["Tools", "Git, GitHub Actions, VS Code, Cursor"]
+      ]
+    },
+    {
+      "type": "section",
+      "title": "~/projects",
+      "items": [
+        ["Nexora", "AI home energy advisor for Kerala households, open source"],
+        ["ImpactLens", "Gamified sustainability tracker, AI Summary + Fact-Checker"],
+        ["CyberTriage", "Agentic LLM SOC analyst sim, Meta PyTorch Hackathon"]
+      ]
+    },
+    {
+      "type": "section",
+      "title": "~/highlights",
+      "items": [
+        ["1M1B", "Top Kerala Performer, National Top 30 Changemaker"],
+        ["GSoC", "Targeting 2027, scikit-learn / statsmodels"]
+      ]
+    },
+    {
+      "type": "section",
+      "title": "~/activity",
+      "items": [
+        ["Contributions", "{{contributions}}"],
+        ["Streak", "{{streak}}"],
+        ["Longest", "{{longest}}"]
+      ],
+      "sparkline": true
+    },
+    {
+      "type": "section",
+      "title": "~/reach",
+      "items": [
+        ["GitHub", "github.com/iamdanielvarghese"],
+        ["LinkedIn", "linkedin.com/in/daniel-varghese-6ab441378"],
+        ["X", "x.com/DanielV45209125"]
+      ]
+    }
+  ],
+  "footer_prompt": "open to AI/ML internships & collaboration"
+}
